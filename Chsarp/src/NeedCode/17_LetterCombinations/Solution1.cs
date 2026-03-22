@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.Design;
-
-namespace NeedCode._17_LetterCombinations;
+﻿namespace NeedCode._17_LetterCombinations;
 
 public class Solution1
 {
